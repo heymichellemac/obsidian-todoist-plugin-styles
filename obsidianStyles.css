@@ -1,0 +1,78 @@
+/* Todoist Plugin Styles */
+
+.todoist-query-title {
+  display: inline !important;
+}
+
+.todoist-refresh-button {
+  display: inline;
+  float: right;
+  margin-left: 8px;
+  padding: 3px 10px;
+  transition: background-color 300ms ease-in-out;
+}
+
+.contains-task-list {
+	font-size: 14px;
+}
+
+.todoist-p1 > input[type="checkbox"] {
+    border: 2px solid #ff7066 !important;
+    border-radius: 50%;
+    background-color: rgba(255, 112, 102, 0.10) !important;
+    transition: background-color 300ms ease-in-out;
+}
+
+.todoist-p1 > input[type="checkbox"]:hover {
+	background-color: rgba(255, 112, 102, 0.25) !important;
+}
+
+.todoist-p2 > input[type="checkbox"] {
+    border: 2px solid #ff9a14 !important;
+    border-radius: 50%;
+    background-color: rgba(255, 154, 20, 0.10) !important;
+    transition: background-color 300ms ease-in-out;
+}
+
+.todoist-p2 > input[type="checkbox"]:hover {
+	background-color: rgba(255, 154, 20, 0.25) !important;
+}
+
+.todoist-p3 > input[type="checkbox"] {
+    border: 2px solid #5297ff !important;
+    border-radius: 50%;
+    background-color: rgba(82, 151, 255, 0.10) !important;
+    transition: background-color 300ms ease-in-out;
+}
+
+.todoist-p3 > input[type="checkbox"]:hover {
+	background-color: rgba(82, 151, 255, 0.25) !important;
+}
+
+.todoist-p4 > input[type="checkbox"] {
+    border: 2px solid #808080 !important;
+    border-radius: 50%;
+    background-color: rgba(128, 128, 128, 0.10) !important;
+    transition: background-color 300ms ease-in-out;
+}
+
+.todoist-p4 > input[type="checkbox"]:hover {
+	background-color: rgba(128, 128, 128, 0.25) !important;
+}
+
+.task-metadata {
+  font-size: 12px !important;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 1rem !important;
+  margin-bottom: 0.5rem;
+}
+
+.task-list-item {
+	border-bottom: 1px solid rgba(128, 128, 128, 0.25);
+	margin-bottom: 0.5rem;
+}
+
+.task-list-item:last-child {
+	border-bottom: none;
+}
