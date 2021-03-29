@@ -1,5 +1,5 @@
 # obsidian-todoist-plugin-styles
-Styles to make the Obsidian Todoist plugin look more like Todoist.
+Styles to make the [Obsidian Todoist plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) look more like Todoist.
 
 Screenshot of the styles in action:
 
