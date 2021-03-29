@@ -3,7 +3,7 @@ Styles to make the [Obsidian Todoist plugin](https://github.com/jamiebrynes7/obs
 
 Screenshot of the styles in action:
 
-![obsidian-todoist-screenshot](D:\Web Projects\obsidian-todoist-plugin-styles\obsidian-todoist-screenshot.jpg)
+![obsidian-todoist-screenshot](.\obsidian-todoist-screenshot.jpg)
 
 Note: I am using the [Atom Obsidian Theme](https://github.com/kognise/obsidian-atom) so your mileage may vary if you're using something different.
 
